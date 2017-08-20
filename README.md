@@ -1,5 +1,7 @@
 # wnameless/docker-oracle-xe-11g Custom DB Initialization Example
 
+Change **init.sql** as you wish.
+
 Build image
 
 ```
